@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+/* Odd numbered classes */
+.odd {
+    background-color: #ff5c5c;
+    font: "Verdana", "DejaVu Sans", sans-serif;
+}
+.medium-size {
+    font-size: 24px;
+}
+
+#element2 {
+    color: rgb(80, 130, 210);
+    font-size: 36px;
+}
+
+#element4{
+    background-color: #63d631;
+    font-weight:bold;
+}
+
